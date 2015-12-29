@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+It prepares it so that git commands can be run
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area has newly added uncommitted files only.  working directory is where your working files are.  Repository is where you commit your changes
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+If I'm trying something new, experimental, or something that will take a long time to finish.  Branches will help as I will reduce the risk of bringing in bad untested changes.
